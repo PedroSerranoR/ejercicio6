@@ -1,0 +1,1 @@
+Esta es la primer línea del fichero2.txt que fue creado sobre la rama1.
