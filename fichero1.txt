@@ -1,0 +1,1 @@
+Esta es la primer línea del fichero1.txt que está enlazado con el repositorio ejercicio 6 en GitHub.
